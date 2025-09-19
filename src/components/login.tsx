@@ -47,7 +47,7 @@ export function Login() {
           <div className="mx-auto w-12 h-12 bg-blue-600 rounded-xl flex items-center justify-center mb-4">
             <Train className="w-6 h-6 text-white" />
           </div>
-          <h1>AnushaSon</h1>
+          <h1>Anushason</h1>
           <p className="text-muted-foreground">Secure access to fleet operations</p>
         </div>
 
